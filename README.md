@@ -1,7 +1,9 @@
 Link: https://colour-palette-generator-eysix.netlify.app/
 
 To run locally,
+
 Make sure to have node installed: npm install
+
 Then: npm start
 
 Libraries used:
