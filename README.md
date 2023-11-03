@@ -1,4 +1,4 @@
-Link: https://colour-palette-generator-eysix.netlify.app/
+Link: https://colour-palette-generateur.netlify.app/
 
 To run locally,
 
