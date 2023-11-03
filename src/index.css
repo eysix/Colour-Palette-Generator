@@ -182,11 +182,12 @@ input.error {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(223.33px, 1fr));
   grid-template-rows: repeat(auto-fit, minmax(96px, 1fr));
+  margin-top: 3rem;
 }
 .colours {
-  min-height: calc(100vh - 100px);
+  min-height: 80vh;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(223.33px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(25vw, 1fr));
   grid-template-rows: repeat(auto-fit, minmax(96px, 1fr));
 }
 .colour {

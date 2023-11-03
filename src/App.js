@@ -54,7 +54,7 @@ function App() {
         </form>
       </section>
 
-      <section className="all-colours">
+    <section className="all-colours">
       <section className="colours">
         {secondlist.map((colour, index) => {
           const hex = colour.hex
