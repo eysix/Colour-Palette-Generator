@@ -1,8 +1,5 @@
 Link: https://colour-palette-generator-eysix.netlify.app/
 
-To run locally: 
-Clone repo, run "npm -i". then "ng serve"
-
 Libraries used:
 #### Values JS
 
